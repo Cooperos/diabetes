@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">diabetes</string>
+    <string name="profile_header">ПРОФИЛЬ</string>
+    <string name="user_name">Имя</string>
+    <string name="user_surname">Фамилия</string>
+    <string name="user_patronymic">Отчество (при наличии)</string>
+    <string name="main_page">ГЛАВНОЕ МЕНЮ</string>
+    <string name="save_button">СОХРАНИТЬ</string>
 </resources>
